@@ -1,0 +1,8 @@
+#navbarScrolls{
+    overflow-x: scroll;
+}
+
+ul .show{
+    background-color: red;
+    position:static;
+}
